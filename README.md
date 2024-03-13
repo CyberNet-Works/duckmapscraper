@@ -6,8 +6,6 @@ This script scrapes DuckDuckGo Maps for information based on specified search qu
 ## Pip Installs Required
 
 ```bash
-pip install selenium
-pip install beautifulsoup4
 ```
 
 ## Dependencies
