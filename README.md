@@ -5,7 +5,7 @@ This script scrapes DuckDuckGo Maps for information based on specified search qu
 
 ## Pip Installs Required
 
-```bash
+```
 pip install selenium
 pip install beautifulsoup4
 ```
@@ -92,4 +92,4 @@ Adjust the delay time before quitting the WebDriver (in seconds)
 ```python
 time.sleep(5)
 ```
-```
+
