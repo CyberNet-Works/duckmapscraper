@@ -3,8 +3,6 @@
 
 This script scrapes DuckDuckGo Maps for information based on specified search queries and saves the results to a CSV file and prints full HTML to a log file.
 
-## Pip Installs Required
-
 ```bash
 ```
 
